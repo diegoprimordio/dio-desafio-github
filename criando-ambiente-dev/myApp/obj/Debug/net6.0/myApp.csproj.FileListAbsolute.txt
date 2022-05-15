@@ -1,0 +1,15 @@
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\criando-ambiente-dev\myApp\bin\Debug\net6.0\myApp.exe
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\criando-ambiente-dev\myApp\bin\Debug\net6.0\myApp.deps.json
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\criando-ambiente-dev\myApp\bin\Debug\net6.0\myApp.runtimeconfig.json
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\criando-ambiente-dev\myApp\bin\Debug\net6.0\myApp.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\criando-ambiente-dev\myApp\bin\Debug\net6.0\ref\myApp.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\criando-ambiente-dev\myApp\bin\Debug\net6.0\myApp.pdb
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\criando-ambiente-dev\myApp\obj\Debug\net6.0\myApp.csproj.AssemblyReference.cache
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\criando-ambiente-dev\myApp\obj\Debug\net6.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\criando-ambiente-dev\myApp\obj\Debug\net6.0\myApp.AssemblyInfoInputs.cache
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\criando-ambiente-dev\myApp\obj\Debug\net6.0\myApp.AssemblyInfo.cs
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\criando-ambiente-dev\myApp\obj\Debug\net6.0\myApp.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\criando-ambiente-dev\myApp\obj\Debug\net6.0\myApp.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\criando-ambiente-dev\myApp\obj\Debug\net6.0\ref\myApp.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\criando-ambiente-dev\myApp\obj\Debug\net6.0\myApp.pdb
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\criando-ambiente-dev\myApp\obj\Debug\net6.0\myApp.genruntimeconfig.cache
