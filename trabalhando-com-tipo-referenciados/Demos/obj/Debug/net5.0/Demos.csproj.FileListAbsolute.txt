@@ -1,0 +1,16 @@
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Demos\bin\Debug\net5.0\Demos.exe
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Demos\bin\Debug\net5.0\Demos.deps.json
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Demos\bin\Debug\net5.0\Demos.runtimeconfig.json
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Demos\bin\Debug\net5.0\Demos.runtimeconfig.dev.json
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Demos\bin\Debug\net5.0\Demos.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Demos\bin\Debug\net5.0\ref\Demos.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Demos\bin\Debug\net5.0\Demos.pdb
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Demos\obj\Debug\net5.0\Demos.csproj.AssemblyReference.cache
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Demos\obj\Debug\net5.0\Demos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Demos\obj\Debug\net5.0\Demos.AssemblyInfoInputs.cache
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Demos\obj\Debug\net5.0\Demos.AssemblyInfo.cs
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Demos\obj\Debug\net5.0\Demos.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Demos\obj\Debug\net5.0\Demos.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Demos\obj\Debug\net5.0\ref\Demos.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Demos\obj\Debug\net5.0\Demos.pdb
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Demos\obj\Debug\net5.0\Demos.genruntimeconfig.cache
