@@ -1,0 +1,16 @@
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\desafio-codigo\Desafios-iniciais\bin\Debug\net5.0\Desafios-iniciais.exe
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\desafio-codigo\Desafios-iniciais\bin\Debug\net5.0\Desafios-iniciais.deps.json
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\desafio-codigo\Desafios-iniciais\bin\Debug\net5.0\Desafios-iniciais.runtimeconfig.json
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\desafio-codigo\Desafios-iniciais\bin\Debug\net5.0\Desafios-iniciais.runtimeconfig.dev.json
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\desafio-codigo\Desafios-iniciais\bin\Debug\net5.0\Desafios-iniciais.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\desafio-codigo\Desafios-iniciais\bin\Debug\net5.0\ref\Desafios-iniciais.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\desafio-codigo\Desafios-iniciais\bin\Debug\net5.0\Desafios-iniciais.pdb
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\desafio-codigo\Desafios-iniciais\obj\Debug\net5.0\Desafios-iniciais.csproj.AssemblyReference.cache
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\desafio-codigo\Desafios-iniciais\obj\Debug\net5.0\Desafios-iniciais.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\desafio-codigo\Desafios-iniciais\obj\Debug\net5.0\Desafios-iniciais.AssemblyInfoInputs.cache
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\desafio-codigo\Desafios-iniciais\obj\Debug\net5.0\Desafios-iniciais.AssemblyInfo.cs
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\desafio-codigo\Desafios-iniciais\obj\Debug\net5.0\Desafios-iniciais.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\desafio-codigo\Desafios-iniciais\obj\Debug\net5.0\Desafios-iniciais.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\desafio-codigo\Desafios-iniciais\obj\Debug\net5.0\ref\Desafios-iniciais.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\desafio-codigo\Desafios-iniciais\obj\Debug\net5.0\Desafios-iniciais.pdb
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\desafio-codigo\Desafios-iniciais\obj\Debug\net5.0\Desafios-iniciais.genruntimeconfig.cache
