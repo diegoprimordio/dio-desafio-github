@@ -1,0 +1,16 @@
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Aula3\bin\Debug\net5.0\Aula3.exe
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Aula3\bin\Debug\net5.0\Aula3.deps.json
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Aula3\bin\Debug\net5.0\Aula3.runtimeconfig.json
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Aula3\bin\Debug\net5.0\Aula3.runtimeconfig.dev.json
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Aula3\bin\Debug\net5.0\Aula3.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Aula3\bin\Debug\net5.0\ref\Aula3.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Aula3\bin\Debug\net5.0\Aula3.pdb
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Aula3\obj\Debug\net5.0\Aula3.csproj.AssemblyReference.cache
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Aula3\obj\Debug\net5.0\Aula3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Aula3\obj\Debug\net5.0\Aula3.AssemblyInfoInputs.cache
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Aula3\obj\Debug\net5.0\Aula3.AssemblyInfo.cs
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Aula3\obj\Debug\net5.0\Aula3.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Aula3\obj\Debug\net5.0\Aula3.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Aula3\obj\Debug\net5.0\ref\Aula3.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Aula3\obj\Debug\net5.0\Aula3.pdb
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\trabalhando-com-tipo-referenciados\Aula3\obj\Debug\net5.0\Aula3.genruntimeconfig.cache
