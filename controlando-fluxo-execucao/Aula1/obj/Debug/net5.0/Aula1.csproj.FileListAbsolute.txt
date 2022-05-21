@@ -1,0 +1,16 @@
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\controlando-fluxo-execucao\Aula1\bin\Debug\net5.0\Aula1.exe
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\controlando-fluxo-execucao\Aula1\bin\Debug\net5.0\Aula1.deps.json
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\controlando-fluxo-execucao\Aula1\bin\Debug\net5.0\Aula1.runtimeconfig.json
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\controlando-fluxo-execucao\Aula1\bin\Debug\net5.0\Aula1.runtimeconfig.dev.json
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\controlando-fluxo-execucao\Aula1\bin\Debug\net5.0\Aula1.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\controlando-fluxo-execucao\Aula1\bin\Debug\net5.0\ref\Aula1.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\controlando-fluxo-execucao\Aula1\bin\Debug\net5.0\Aula1.pdb
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\Aula1.csproj.AssemblyReference.cache
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\Aula1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\Aula1.AssemblyInfoInputs.cache
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\Aula1.AssemblyInfo.cs
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\Aula1.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\Aula1.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\ref\Aula1.dll
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\Aula1.pdb
+D:\ESTUDOS\TECNOLOGIA\DIGITAL INOVATION\GFT START\dio-desafio-github\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\Aula1.genruntimeconfig.cache
